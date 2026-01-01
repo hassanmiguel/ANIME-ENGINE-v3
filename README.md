@@ -46,7 +46,7 @@ How to Run
 
 Clone this repository:
 
-git clone <your-repo-url>
+git clone https://github.com/hassanmiguel/ANIME-ENGINE-v3.git
 
 
 Install Pygame if you haven’t:
